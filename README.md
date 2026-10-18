@@ -1,4 +1,4 @@
-# Sistema de Inventario — ISW-124 Proyecto 1
+
 
 # Sistema de Inventario
 
