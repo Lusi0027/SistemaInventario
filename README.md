@@ -131,19 +131,17 @@ El repositorio incluye las siguientes carpetas y archivos:
 - `README.md`: información e instrucciones para ejecutar el sistema.
 
 ## Capturas de pantalla
-Categorias:
+
 <img width="653" height="380" alt="image" src="https://github.com/user-attachments/assets/38b7e03d-9de8-4821-aa95-bd7c46e19568" />
 
-Suplidores:
 <img width="581" height="346" alt="image" src="https://github.com/user-attachments/assets/1585afda-1ee7-4922-a737-8d0ea4bd19b0" />
 
-Productos:
 <img width="565" height="350" alt="image" src="https://github.com/user-attachments/assets/5c3e5c18-dfa8-4b75-b94c-d4b414382dcb" />
 
-Papelera:
+
 <img width="561" height="335" alt="image" src="https://github.com/user-attachments/assets/09ff17ae-7e44-4c17-8b62-3d101e963727" />
 
-Reportes:
+
 <img width="557" height="334" alt="image" src="https://github.com/user-attachments/assets/d9fdcaf7-bbcb-4702-87d1-04d9870a7ad9" />
 
 
