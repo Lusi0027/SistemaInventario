@@ -65,7 +65,16 @@ Papelera: `ListarEliminadas()/ListarEliminados()` y `Restaurar(id)` en cada serv
 | Soft-delete + reglas | `Activo BIT`; `Eliminar` bloquea si hay productos activos; `Restaurar` exige padres activos |
 
 ## Capturas de pantalla
-_Agregar aquí las capturas de cada pantalla (Categorías, Suplidores, Productos, Papelera)._
+Categorias:
+![alt text](image.png)
+Suplidores:
+![alt text](image-1.png)
+Productos:
+![alt text](image-2.png)
+Papelera:
+![alt text](image-3.png)
+Reportes:
+![alt text](image-4.png)
 
 ## Video demostrativo
 _Enlace al video (5–10 min)._
