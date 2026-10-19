@@ -24,15 +24,7 @@ El proyecto utiliza una arquitectura por capas para separar las interfaces, las 
 
 Ejemplo de cadena de conexión:
 
-```text
-Server=.\SQLEXPRESS;Database=SistemaInventario;Trusted_Connection=True;TrustServerCertificate=True;
-```
 
-Para generar el ejecutable en modo Release, utilizar el siguiente comando:
-
-```powershell
-dotnet publish src/SistemaInventario.Presentacion -c Release -o build
-```
 
 ## Organización del proyecto
 
