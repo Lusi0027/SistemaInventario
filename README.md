@@ -22,9 +22,6 @@ El proyecto utiliza una arquitectura por capas para separar las interfaces, las 
 4. Seleccionar `SistemaInventario.Presentacion` como proyecto de inicio.
 5. Presionar **F5** para ejecutar el programa.
 
-Ejemplo de cadena de conexión:
-
-
 
 ## Organización del proyecto
 
