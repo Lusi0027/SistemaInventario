@@ -53,6 +53,8 @@ Necesitas Visual Studio con desarrollo de escritorio .NET, el SDK de .NET 8 y SQ
 
 <img width="583" height="366" alt="image" src="https://github.com/user-attachments/assets/4bb947a2-5c69-433f-8464-e21424a14460" />
 
+**Link del video:** https://universidaduce-my.sharepoint.com/:v:/g/personal/lc2024-3658_uce_edu_do/IQBBPo7O1fvJS7U0uYkP6fVxAVj78DR_QWPcsyqaiAyLwPE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pjEtVu
+
 
 
 
