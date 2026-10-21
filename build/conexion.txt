@@ -1,0 +1,1 @@
+Server=localhost;Database=SistemaInventario;Trusted_Connection=True;TrustServerCertificate=True;
